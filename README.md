@@ -16,9 +16,9 @@ This repository contains datasets that have been used in malaria-related work.
 | [BioNLP.tar.gz](datasets/BioNLP.tar.gz)](https://github.com/WKPhang/XGBoost_EcologicalNicheModel/)](https://github.com/WKPhang/XGBoost_EcologicalNicheModel/) | 2 | English | 2023 | [Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full) |
 | [ https://www.nih.gov/, (accessed on 11 August 2022)] | 4 | English |  2023| [Performance Analysis of Deep Learning Algorithms in Diagnosis of Malaria Disease (https://media.malariaworld.org/Performance_Analysis_of_Deep_Learning_Algorithms_in_Diagnosis_of_Malaria_Disease_758ec67bb1.pdf) |
 | [Landcover data is publicly available through (http://servir-rlcms.appspot.com/static/html/home.html).Malaria cases data from MOPH is available through: (http://malaria.ddc.moph.go.th/malariar10/index_newversion.php)] | 2 | English | 2023 | [Understanding work-related travel and its relation to malaria occurrence in Thailand using geospatial maximum entropy modelling](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-023-04478-6) |
-| [DBpediaRelations-PT-0.2.txt.bz2](datasets/DBpediaRelations-PT-0.2.txt.bz2)| 10 | Portuguese | 2013 |[Exploring DBpedia and Wikipedia for Portuguese Semantic Relationship Extraction](papers/minwise-linguamtica-13.pdf)|
+| [Requests to access these datasets should be directed to (chtingwu@tmu.edu.tw)]| 10 | Portuguese | 2023 |[Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)|
+| [(https://lhncbc.nlm.nih.gov/LHC)-downloads/downloads.html#malariadatasets](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malariadatasets) | 3 | English | 2022 | [Malaria cell image classification by explainable artificial intelligence](https://link.springer.com/article/10.1007/s12553-021-00620-z) |
 | [kbp37-master.zip](datasets/kbp37-master.zip) | 37 directional | English | 2015 | [Relation Classification via Recurrent Neural Network](papers/KBP37.pdf) |
-
 <br><br>
 
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
