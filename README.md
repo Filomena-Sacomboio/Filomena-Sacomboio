@@ -1,7 +1,7 @@
 data center that will be useful for our research
 ============================================
 
-This repository contains datasets that have been used in malaria-related work.
+This repository contains datasets that have been used in malaria-related work and will serve as a guide for research. Some of them are available to the public, others require permission from the author by simply contacting them via email.
 
 <br><br>
 
