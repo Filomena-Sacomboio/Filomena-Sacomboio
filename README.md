@@ -5,8 +5,8 @@ This repository contains datasets that have been used in malaria-related work an
 
 <br><br>
 
-| Dataset                      |         Resumo                     | Language | Year | Cite | 
-| --------------------------------- |:-------------:| :-------:|------|------|
+| Dataset                         |         Resumo                     | Language | Year | Cite | 
+| --------------------------------|:----------------------------------:| :-------:|------|------|
 | [[aimed.tar.gz](datasets/aimed.tar.gz)](https://www.sciencedirect.com/science/article/pii/S2352340919313526)| The dataset used in this article was collected as secondary data from the Federal Polytechnic Ilaro Medical Center, Ilaro Ogun State, Nigeria and contains information on 337 patients who presented for consultation regarding malaria-related infections. The symptoms reported by patients were
 were recorded and information was collected on the same patients after they were tested for malaria.
 The recorded symptoms as reported by the patients were all compared with the malaria test results, and the malaria test results were used to target
