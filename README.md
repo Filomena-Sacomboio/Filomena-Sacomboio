@@ -1,7 +1,9 @@
 data center that will be useful for our research
 ============================================
 
-This repository contains datasets used in malaria-related work and will serve as a guide for research. Some of them are available to the public, others require permission from the author by simply emailing them.
+My doctoral project addresses the theme of "Explainable Artificial Intelligence in Predicting Risk Factors Associated with Complications and Outcomes of Malaria". It is extremely important to explore the state of the art by reviewing related articles, in order to understand the approaches adopted by other researchers, learn about the models used, and understand the types of data used, among other aspects.
+
+Therefore, this repository was created to house datasets used in malaria-related research, providing a valuable reference for future investigations. Maintaining a data repository is not only a best practice but also a fundamental component of data science and project development. This practice can boost transparency, foster collaboration, and increase efficiency, thus forming a solid foundation for future investigations and developments.
 
 <br><br>
 
