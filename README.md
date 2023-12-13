@@ -5,7 +5,7 @@ My doctoral project addresses the theme of "Explainable Artificial Intelligence 
 
 Therefore, this repository was created to combine datasets used in malaria-related research, providing a valuable reference for future investigations. The focus will be exclusively on work utilizing machine learning on malaria-related biomedical datasets. Maintaining a data repository is a best practice and a fundamental component of data science and project development. This practice can boost transparency, foster collaboration, and increase efficiency, thus forming a solid foundation for future investigations and developments.
 
-<br><br> git config format. column.width <50>
+<br> git config format. column.width <50> <br> 
 
 
 | abstract                                                                               |        Models used                    | Language | Year |Reference & Dataset | 
