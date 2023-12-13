@@ -1,11 +1,12 @@
 data center that will be useful for our research
 ============================================
 
-My doctoral project addresses the theme of "Explainable Artificial Intelligence in Predicting Risk Factors Associated with Complications and Outcomes of Malaria". It is essential to explore the state of the art by reviewing related articles, understand the approaches adopted by other researchers, learn about the models used, and understand the types of data used, among other aspects.
+My doctoral project addresses the theme of "Explainable Artificial Intelligence in Predicting Risk Factors Associated with Complications and Outcomes of Malaria". It is essential to explore the state of the art by reviewing related articles, understanding the approaches adopted by other researchers, learning about the models used, and understanding the types of data used, among other aspects.
 
 Therefore, this repository was created to combine datasets used in malaria-related research, providing a valuable reference for future investigations. The focus will be exclusively on work utilizing machine learning on malaria-related biomedical datasets. Maintaining a data repository is a best practice and a fundamental component of data science and project development. This practice can boost transparency, foster collaboration, and increase efficiency, thus forming a solid foundation for future investigations and developments.
 
 <br><br>
+git config format. column.width <50>
 
 | abstract                                                                               |        Models used                    | Language | Year |Reference & Dataset | 
 |----------------------------------------------------------------------------------------|:----------------------------------:| :-------:|------|------|
